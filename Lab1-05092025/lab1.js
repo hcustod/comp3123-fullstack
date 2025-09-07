@@ -3,7 +3,7 @@
 // Date: Friday September 5th 2025
 
 // All excercise questions are included in the following file.
-// The questions have been answered as functions, called at the end of the file.
+// The questions have been answered as functions, called at the end of the file; rather than individiual js files.
 
 // Exercise 1
 function captializeFirst(str) {
@@ -69,7 +69,7 @@ console.log(captializeFirst("abc"));
 console.log("\nExercise 2:");
 console.log(largestOfThree(10, 20, 30));
 console.log(largestOfThree(-10, -20, -5));
-console.log(largestOfThree(0, 0, 0));
+console.log(largestOfThree(0, -4, -1));
 
 console.log("\nExercise 3:");
 console.log(moveChars("abcdef"));
